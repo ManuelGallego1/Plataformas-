@@ -1,0 +1,7 @@
+{
+  "name": "ajcreativestudios",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
